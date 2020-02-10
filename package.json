@@ -1,0 +1,21 @@
+{
+  "name": "dieulamour",
+  "version": "1.0.0",
+  "description": "dlm ",
+  "author": "philhosophy",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/pwa": "^3.0.0-0",
+    "bootstrap": "^4.1.3",
+    "bootstrap-vue": "^2.0.0",
+    "git": "^0.1.5",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {}
+}
